@@ -1,0 +1,1 @@
+>>> Read two integers (a, b) and calculate the sum of them, printing (SOMA).

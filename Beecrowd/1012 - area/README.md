@@ -1,0 +1,1 @@
+>>> Read three doubles A,B,C and do the areas based in these three inputs and print with 3 digits after the decimal point.

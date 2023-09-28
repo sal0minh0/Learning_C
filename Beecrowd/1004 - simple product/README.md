@@ -1,0 +1,1 @@
+>>> Read two integers (a, b) and calculate the product of them, printing (PROD).

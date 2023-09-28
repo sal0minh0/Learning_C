@@ -1,0 +1,1 @@
+>>> Area of a Circle: Read the radius, given pi (n) as 3.14159 and the formula A = π * R^2, print a floating number with four places after the decimal point.

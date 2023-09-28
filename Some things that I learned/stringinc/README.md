@@ -1,0 +1,1 @@
+>>> Strings in C is a char vector that you choose the number of words.

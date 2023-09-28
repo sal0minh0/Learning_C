@@ -1,0 +1,4 @@
+>>> Read 3 integers and use the formula absolute number(of <math.h>), and print the highest number between these numbers (without ifs and elses);
+
+>>> Logic: -> Use the formula given: maiorAB = (a + b + abs(a-b))/2 -> to calculate the highest value between a and b, the fuction "abs(a - b)" calculate the absolute number of the diference between a and b, next you sum this result with a + b, the result is stored in maiorAB.
+-> use the same formula with another variables: maximo = (maiorAB + c + abs(maiorAB - c)) / 2; to calculate the highest value between maiorAB(that variable is already the highest value between a,b) and c the result is stored in the variable maximo.
